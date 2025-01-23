@@ -1,0 +1,16 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+
+# Virtual environment
+venv/
+.myenv/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# Large files
+*.pkl
